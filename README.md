@@ -13,9 +13,9 @@ Yeah not much, anyway just want to diss on tata for their stupid way of writing 
 
 # How to use
 ---
-Just store all your customer subscriber ID's into a csv file, and edit the code to add your path. Add your Username and password in the variables as explained by the comments in the code, then just enter your customer name or what ever you have saved to identify a customer in the prompt when you run your code. Then wait patiently till the webdrivers loads up, about 15-20 seconds on a fast internet connection.
+Just store all your customer subscriber ID's into a csv file, and edit the code to add your path. Add your Username and password in the variables as explained by the comments in the code, then just enter your customer name or what ever you have saved to identify a customer in the prompt when you run your code. After thats over refresh the account for the recharge to work. Wait patiently for the webdriver to load up, about 15-20 seconds on a fast internet connection for a recharge and a refresh seperately.
 
 # Future Ideas
 ---
-Probably add a gui and make the program more user friendly.
+Probably add a gui and make the program more user friendly. Implement Keyring or encryption.
 Improve code, thats it
