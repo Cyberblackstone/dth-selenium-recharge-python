@@ -1,7 +1,7 @@
 # dth-selenium-recharge-python
 A repo for the tata sky recharge bot
 ---
-# Tl;DR
+ Tl;DR
 ---
 A simple tool for recharging your tata sky portal - i know its horribly written but its just a simple tool to save time from copying and pasting subscriber ID's.
 Second Reason a very stupid attempt to name and shame tata over how poorly they have written their recharge portal for dealers, no re-captcha, no proper method for analytics and a horrible UI that bleeds my eyes (hope fully thats just me).
